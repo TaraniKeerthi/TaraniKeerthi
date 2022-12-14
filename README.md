@@ -3,6 +3,8 @@
 - 👋 Hi, I’m Sri Tarani Keerthi
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Front End Technologies
+- 🔵 Tech Stack includes HTML, CSS, Vanilla Javascript, ES6, React Js
+- 🔷 Other technologies ---> Python, SQL
 - 🟢 Other interests include research about Space Universe and History 
 - 📫 Reach me through LinkedIn ---> www.linkedin.com/in/sri-tarani-keerthi
 
