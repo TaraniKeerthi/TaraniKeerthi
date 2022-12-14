@@ -10,3 +10,4 @@
 TaraniKeerthi/TaraniKeerthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![HelloHiGIF](https://user-images.githubusercontent.com/99949317/207560189-35dc2113-a345-4da4-9a25-6f21336f976a.gif)
