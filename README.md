@@ -1,6 +1,6 @@
 ![AnimatedTextGreetingGIF](https://user-images.githubusercontent.com/99949317/207557959-81c4d898-65d6-4c17-b93c-4b7232b63ea7.gif)
 
-- 👋 Hi, I’m @Sri Tarani Keerthi
+- 👋 Hi, I’m Sri Tarani Keerthi
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Front End Technologies
 - 🟢 Other interests include research about Space and Universe 
