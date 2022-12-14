@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Sri Tarani Keerthi
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Front End Technologies
-- 🟢 Other interests include research about Space and Universe 
-- 📫 Can reach me throught LinkedIn ---> www.linkedin.com/in/sri-tarani-keerthi
+- 🟢 Other interests include research about Space Universe and History 
+- 📫 Reach me through LinkedIn ---> www.linkedin.com/in/sri-tarani-keerthi
 
 <!---
 TaraniKeerthi/TaraniKeerthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
