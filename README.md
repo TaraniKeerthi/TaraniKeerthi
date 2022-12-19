@@ -1,8 +1,8 @@
 ![AnimatedTextGreetingGIF](https://user-images.githubusercontent.com/99949317/207557959-81c4d898-65d6-4c17-b93c-4b7232b63ea7.gif)
 
 - 👋 Hi, I’m Sri Tarani Keerthi
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Front End Technologies
+- 👀 Interested in Full Stack Development
+- 🌱 Currently learning Front End Technologies
 - 🔵 Tech Stack includes HTML, CSS, Vanilla Javascript, ES6, React Js
 - 🔷 Other technologies ---> Python, SQL
 - 🟢 Other interests include research about Space Universe and History 
