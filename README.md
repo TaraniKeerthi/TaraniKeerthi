@@ -2,11 +2,11 @@
 
 - 👋 Hi, I’m Sri Tarani Keerthi
 - 👀 Interested in Full Stack Development
-- 🌱 Currently learning Front End Technologies
-- 🔵 Tech Stack includes HTML, CSS, Vanilla Javascript, ES6, React Js
-- 🔷 Other technologies ---> Python, SQL
+- 🌱 Currently exploring and learning more about ReactJs and Material UI
 - 🟢 Other interests include research about Space and Universe
+- ❤️ Love everything about Sustainable technology and Innovations
 - 📫 Reach me through LinkedIn ---> www.linkedin.com/in/sri-tarani-keerthi
+- 📫 Reach me through Mail ---> tarani.keerthi@gmail.com
 
 <!---
 TaraniKeerthi/TaraniKeerthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
